@@ -7,19 +7,6 @@ This repository contains my solutions to **LeetCode** problems, organized **date
 
 Each folder is named using the date on which the problems were solved.
 
-```text
-Problems_LeetCode/
-│
-├── 2026-07-02/
-│   ├── Two Sum
-│   ├── Array Partition
-│   └── ...
-│
-├── 2026-07-03/
-│   ├── ...
-│
-└── README.md
-```
 
 ## 📅 Organization
 
